@@ -6,6 +6,8 @@ import { ShoppingBag, Store, User } from "lucide-react"
  
 import { useRouter } from "next/navigation"
 
+
+
 export default function HomePage() {
     const router = useRouter()
   return (  
